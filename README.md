@@ -1,4 +1,4 @@
 # my-demo
 This is my first Git Repositories.
 <br>
-Author- Piyush Hatwar
+Author - Piyush (Apna college)
